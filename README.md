@@ -1,6 +1,6 @@
 # Spotify
 
-Inspired by an interview with a majorlabel I want to dive deeper into music data. I'll use the Spotify API to get that data. This will be a nice exercise in working with APIs - and does justice to my passion for music.
+In this notebook I create my data set myself: with data that I got through Spotify Web API. Let's see what I can find out about my favorite music...
 
 Virtual environment:
 
