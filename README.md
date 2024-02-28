@@ -1,6 +1,6 @@
 # Spotify
 
-In this notebook I create my data set myself: with data that I got through Spotify Web API. Let's see what I can find out about my favorite music...
+In this notebook I create the data sets myself: with data that I got through Spotify Web API. Let's see what I can find out about my favorite music...
 
 Virtual environment:
 
