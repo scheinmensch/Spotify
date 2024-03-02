@@ -13,7 +13,7 @@ I first look at the variables in isolation and then at the relationships between
 
 I may later compare different artists with each other or develop an ML model. The ideas will certainly come during the analysis.
 
-In this repository, I place particular emphasis on the visualizations. Color schemes, fonts, etc. should be coordinated and match the theme.
+In this repository, I place particular emphasis on the visualizations. Color schemes, fonts, etc. should be coordinated and match the theme. For example, I checked on the official band's website which font they used and applied it to the plots.
 
 
 ### Virtual environment:
