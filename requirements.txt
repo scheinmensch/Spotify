@@ -6,3 +6,4 @@ jupyter-dash==0.4.2
 plotly==5.19.0
 scikit-learn==1.4.1
 yellowbrick==1.5
+wordcloud==1.9.3
