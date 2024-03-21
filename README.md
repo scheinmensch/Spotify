@@ -9,6 +9,8 @@ In this notebook I created the data sets myself: with data that I got through Sp
 
 The first artist for whom I analyze the audio data is [ALL THEM WITCHES](AllThemWitches.ipynb)
 
+Followed by [THE STREETS](TheStreets.ipynb) *work in progress*
+
 I first look at the variables in isolation and then at the relationships between them.
 
 I may later compare different artists with each other or develop an ML model. The ideas will certainly come during the analysis.
