@@ -9,11 +9,13 @@ In this notebook I created the data sets myself: with data that I got through Sp
 
 The first artist for whom I analyze the audio data is [ALL THEM WITCHES](AllThemWitches.ipynb)
 
-Followed by [THE STREETS](TheStreets.ipynb) *work in progress*
+Followed by [THE STREETS](TheStreets.ipynb)
 
 I first look at the variables in isolation and then at the relationships between them.
 
-I may later compare different artists with each other or develop an ML model. The ideas will certainly come during the analysis.
+On **Tableau** Public I'm working on more analytics, visualizations and dashboards to compare the music of the artitst. Will share the results asap!
+
+I may later develop an ML model. The ideas will certainly come during the analysis.
 
 In this repository, I place particular emphasis on the visualizations. Color schemes, fonts, etc. I'm also working on interactive plots. These won't be rendered on Github, please view the notebook on [nbviewer](https://nbviewer.org/) instead.
 
