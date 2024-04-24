@@ -7,17 +7,13 @@ In this notebook I created the data sets myself: with data that I got through Sp
 - [Rival Sons](Get_data_Rival%20Sons.ipynb)
 - [The Streets](Get_data_The_Streets.ipynb)
 
-The first artist for whom I analyze the audio data is [ALL THEM WITCHES](AllThemWitches.ipynb)
+The first artist for whom I analyzed the audio data is [ALL THEM WITCHES](AllThemWitches.ipynb)
 
 Followed by [THE STREETS](TheStreets.ipynb)
 
-I first look at the variables in isolation and then at the relationships between them.
-
-On **Tableau** Public I'm working on more analytics, visualizations and dashboards to compare the music of the artitst. Will share the results asap!
-
-I may later develop an ML model. The ideas will certainly come during the analysis.
-
 In this repository, I place particular emphasis on the visualizations. Color schemes, fonts, etc. I'm also working on interactive plots. These won't be rendered on Github, please view the notebook on [nbviewer](https://nbviewer.org/) instead.
+
+*This repository will be expanded as soon as new ideas emerge and there is time :)*
 
 
 ### Virtual environment:
