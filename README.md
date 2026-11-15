@@ -15,6 +15,7 @@ In this repository, I place particular emphasis on the visualizations. Color sch
 
 *This repository will be expanded as soon as new ideas emerge and there is time :)*
 
+*Update Nov. 2026: When I wanted to pull data of the new ATM album House Of Mirrors from the Spotify API, I found out that this is no longer possible without premium account. :(*
 
 ### Virtual environment:
 
