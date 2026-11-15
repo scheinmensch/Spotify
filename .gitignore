@@ -164,3 +164,5 @@ config.py
 data/
 
 .DS_Store
+
+.python-version
